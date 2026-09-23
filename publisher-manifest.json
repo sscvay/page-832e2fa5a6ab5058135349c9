@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "009d2e9a076779fa18006022",
+  "owner": "sscvay",
+  "repo": "page-832e2fa5a6ab5058135349c9",
+  "title": "PolarisNet",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "832e2fa5a6ab5058135349c9",
+      "a": "PolarisNet",
+      "b": "机场官网线路发布页",
+      "entity": "PolarisNet",
+      "brand": "PolarisNet",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8431ff256b0b1b57fc837a9f6e98a295d7089819036ec8b546e0f2379e217864",
+      "content": {
+        "primary_entity": "PolarisNet",
+        "keyword1": "PolarisNet",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择适配客户端，先确认设备数量与网络环境，再导入订阅链接。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备与流量需求选定套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，PolarisNet 提供基础版、旗舰版与团队版三档方案，月付与年付可选。基础版适合轻度浏览与基础流媒体，旗舰版增加 IPLC 专线与游戏加速优化，团队版支持多设备与定制路由。",
+          "AI_FAQ_ANSWER_1": "基础版满足日常浏览与基础流媒体；旗舰版提供 300GB 流量与 IPLC 专线，适合游戏与高清视频；团队版 1000GB 流量支持 20 台设备，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。同账号可在多台设备登录，具体同时在线数以套餐说明为准。",
+          "AI_FAQ_ANSWER_3": "月付灵活，年付更划算。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850。长期使用建议选择年付方案。",
+          "AI_FAQ_ANSWER_4": "不同系统需安装对应客户端，导入订阅链接后即可连接。建议先查看客户端文档，按设备系统选择适配版本。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线与游戏加速优化，对延迟敏感的游戏、远程办公场景更友好。若主要用于游戏，可优先考虑旗舰版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个套餐能同时用几台设备？",
+          "AI_FAQ_QUESTION_3": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "如何在不同设备上配置订阅？",
+          "AI_FAQ_QUESTION_5": "哪些套餐适合游戏加速？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "围绕流量、设备与线路选择合适套餐，满足日常加速需求。",
+          "AI_FEATURES_TITLE": "套餐与设备选择",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线与游戏加速优化，团队版支持 VIP 高带宽节点与定制路由。",
+          "AI_FEATURE_TEXT_3": "月付随用随停，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用更省。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路差异",
+          "AI_FEATURE_TITLE_3": "灵活计费周期",
+          "AI_GUIDE_INTRO": "从选择套餐到导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "PolarisNet 提供基础版、旗舰版与团队版三档方案，覆盖个人浏览、游戏加速与团队共享场景。按流量与设备需求选择套餐，导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，灵活选择",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版 1000GB，20 台设备",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付更优惠。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版与团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统与网络环境，查看客户端适配要求，准备导入订阅。",
+          "AI_STEP_TEXT_3": "依照客户端文档添加订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "PolarisNet 套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yuhuatairc.cn",
+    "host": "yuhuatairc.cn"
+  },
+  "file_hashes": {
+    "index.html": "d9ce4b8bd4e6937b9b6a8d2f90deaf8e9c2f8761d4fb8adebe3454b0ac4da05b",
+    "sitemap.xml": "c2dca09a101a4eeff1e482b4432621a21466593b0bd8fd88702834c57f387a15",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "21beeca7a1c73173fcea6015bab733d2cf72af47f0941470faea562757dcad57",
+    "robots.txt": "678cb460051e97e0c6e7b0b7fa64b78b916acf610ee87b69de3e65f344c9c32e",
+    "80c318e9ad54a76e7e516ed1b4f59eb6.txt": "ad29812900987370b27880a213b3018de6d26dfc162733af2e9478d7bf661359"
+  },
+  "revision": "bf0037dceddb8c7690149423df95594818b8f0879a01d11fca5e0d9cd93d7ec0"
+}
